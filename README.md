@@ -24,7 +24,7 @@
 ### 🤝🏻 &nbsp;Connect with Me 🤝
 
 <div align="center">
-<a href="www.linkedin.com/in/emrepaksoy" target="_blank">
+<a href="https://www.linkedin.com/in/emrepaksoy" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/14513798/emre-paksoy" target="_blank">
