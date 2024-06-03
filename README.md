@@ -1,7 +1,7 @@
 
 
 <div align="center">
-   <h1>Hi there 👋, I'm <a href="www.linkedin.com/in/emrepaksoy">Emre Paksoy</a></h1>
+   <h1>Hi there 👋, I'm <a href="https://www.linkedin.com/in/emrepaksoy">Emre Paksoy</a></h1>
 </div>
 
 <div align="center">
